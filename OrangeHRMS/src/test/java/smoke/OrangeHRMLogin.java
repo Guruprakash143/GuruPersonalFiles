@@ -20,6 +20,7 @@ public class OrangeHRMLogin extends smokeParentTest{
 			objLogin.enterUserName();
 			objLogin.enterPassword();
 			objLogin.clickOnLoginButton();
+/********** This is Simple Test case ***************/
 			
 			/******** Main Script ends ***********/
 		}else {

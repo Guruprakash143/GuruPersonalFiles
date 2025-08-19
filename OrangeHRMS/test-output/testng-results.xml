@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-05T21:15:50 IST" name="Default suite" finished-at="2025-08-05T21:15:58 IST" duration-ms="7394">
+    <groups>
+    </groups>
+    <test started-at="2025-08-05T21:15:50 IST" name="Default test" finished-at="2025-08-05T21:15:58 IST" duration-ms="7394">
+      <class name="smoke.OrangeHRMLogin">
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:smoke.OrangeHRMLogin@223aa2f7]" started-at="2025-08-05T21:15:50 IST" name="beforeTestMethod" finished-at="2025-08-05T21:15:51 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method is-config="true" signature="beforeMethodMethod(java.lang.reflect.Method)[pri:0, instance:smoke.OrangeHRMLogin@223aa2f7]" started-at="2025-08-05T21:15:51 IST" name="beforeMethodMethod" finished-at="2025-08-05T21:15:51 IST" duration-ms="729" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void smoke.OrangeHRMLogin.orangeHRM_verifyTheLoginFunctionality() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodMethod -->
+        <test-method signature="orangeHRM_verifyTheLoginFunctionality()[pri:0, instance:smoke.OrangeHRMLogin@223aa2f7]" started-at="2025-08-05T21:15:51 IST" name="orangeHRM_verifyTheLoginFunctionality" finished-at="2025-08-05T21:15:57 IST" duration-ms="5978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHRM_verifyTheLoginFunctionality -->
+        <test-method is-config="true" signature="afterTestMethod()[pri:0, instance:smoke.OrangeHRMLogin@223aa2f7]" started-at="2025-08-05T21:15:57 IST" name="afterTestMethod" finished-at="2025-08-05T21:15:58 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+      </class> <!-- smoke.OrangeHRMLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
